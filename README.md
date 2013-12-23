@@ -9,7 +9,7 @@ Exponential Decay Low Pass Filter
 Note: This library is intended to run under the Arduino dev platform
         
 Usage:
-#include <LowPassFilter.h>  // library must be in ..\Arduino\libraries\LowPassFilter
+'#include <LowPassFilter.h>  // library must be in ..\Arduino\libraries\LowPassFilter'
         
 LowPassFilter filter1(2, 100);  // create filter object with a filter strength of 2
                                 // and seeded to start at 100 (seed only needs to be a rough guess)
