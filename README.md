@@ -1,6 +1,6 @@
 LowPassFilter
 =============
-
+/*
 Exponential Decay Low Pass Filter
 
 
@@ -27,3 +27,4 @@ TIPS:
         (the "smootheness" and delay double for each increase of filter strength)
    -A filter strength of '0' will have no effect (filteredData = rawData)
    -Avoid using a larger filter strength than needed as incoming data precision may suffer
+*/
